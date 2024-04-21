@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8288903",
+      "name": "药品",
+      "font_class": "yaopin",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    }
+  ]
+}
